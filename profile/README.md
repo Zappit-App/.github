@@ -14,7 +14,7 @@ The purpose of this repository is to keep a record of everyday's development, if
 
 ## Documentation
 
--   [Installation](./docs/installation.md)
+-   [Installation](../docs/installation.md)
 
 <br />
 
